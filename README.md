@@ -8,7 +8,7 @@
 * Novos exemplos de como utilizar a framework Spring Boot e o React Native.
 * Criar API's.
 * Melhoria nas linguagens TypeScript e Java.
-* Como utilizar ORM (Hibernate)
+* Como utilizar ORM (Hibernate).
 * Codigo limpo.
 
 # 📷 Imagens: 
