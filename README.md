@@ -1,5 +1,5 @@
 # 💬 O que é: 
-  Consiste em um site com uma listagem de vendas que ao o usuario entrar listara todas as vendas realizadas durante 1 ano, mas ele pode alterar esse periodo em que ele deseja tambem tem um botão que envia um sms dessa venda.
+  Consiste em um site com uma listagem de vendas que ao o usuário entrar listara todas as vendas realizadas durante 1 ano, mas ele pode alterar esse período em que ele deseja também tem um botão que envia um SMS dessa venda.
 
 # 📃 Como funciona: 
   O usuario escolhe o periodo de tempo em que deseja filtrar e toda vez que esse periodo é alterado a listagem muda.
